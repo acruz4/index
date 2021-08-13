@@ -1,0 +1,27 @@
+a:link {
+  color: #76323F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #76323F;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+li {
+  font-size:16.5px;
+  font-family: 'Lato', sans-serif;
+  color: #201F22;
+}
